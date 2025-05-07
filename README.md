@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cordova Login App
 
 This is a simple login app built using Apache Cordova and tested on Android Studio Emulator.
@@ -25,4 +24,5 @@ This is a simple login app built using Apache Cordova and tested on Android Stud
 [@rajavarshinic](https://github.com/rajavarshinic)
 =======
 # cordova-login-app
->>>>>>> d539c3bd48ed593d52f398fface9d341f7fc849a
+
+ https://github.com/rajavarshinic/cordova-login-app
